@@ -53,7 +53,7 @@ section {
 /* --- Seção Hero --- */
 .hero-section {
     min-height: 100vh;
-    background: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 1)), url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+    background: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 1)), url('/assets/image/backgroundBrickImage.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
