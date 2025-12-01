@@ -46,5 +46,5 @@
     }
       for(const i of profissao_obj){
         i.textContent = profissao;
-        i. = "blue";
+        i.classList.add("destaque");
     }
